@@ -60,3 +60,11 @@ View options:
     Q                       # superquiet version (no "Weather report", no city name)
     T                       # switch terminal sequences off (no colors)
 ```
+```bash
+[root@openEuler ~]# curl -H "Accept-Language: zh"  wttr.in/zhengzhou?0Q
+       .-.      小雨
+      (   ).    21 °C          
+     (___(__)   → 10 km/h      
+      ‘ ‘ ‘ ‘   5 km           
+     ‘ ‘ ‘ ‘    0.0 mm  
+```
